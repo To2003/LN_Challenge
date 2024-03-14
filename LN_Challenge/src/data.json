@@ -1,0 +1,38 @@
+[
+    {
+        "img": "",
+        "title": "Title 1",
+        "subtitle": "Subtitle 1",
+        "lead": "Lead 1",
+        "author": "Author 1",
+        "authorImg": "",
+        "url": ""
+    },
+    {
+        "img": "",
+        "title": "Title 2",
+        "subtitle": "Subtitle 2",
+        "lead": "Lead 2",
+        "author": "Author 2",
+        "authorImg": "",
+        "url": ""
+    },
+    {
+        "img": "",
+        "title": "Title 2",
+        "subtitle": "Subtitle 2",
+        "lead": "Lead 2",
+        "author": "Author 2",
+        "authorImg": "",
+        "url": ""
+    },
+    {
+        "img": "",
+        "title": "Title 2",
+        "subtitle": "Subtitle 2",
+        "lead": "Lead 2",
+        "author": "Author 2",
+        "authorImg": "",
+        "url": ""
+    }
+]
